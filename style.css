@@ -10,7 +10,7 @@
 main{
     height: 100vh;
     width: 100%;
-    background-color: aliceblue;
+    background-color: rgb(110, 176, 233);
     display: flex;
     justify-content: center;
     align-items: center;
@@ -63,7 +63,7 @@ button{
 
 .gray{
     background-color: grey;
-    color: blue;
+    color: rgba(6, 67, 137, 0.944);
 }
 
 .no{
@@ -77,30 +77,6 @@ button :hover{
     background-color: khaki;
     color: black;
 }
-
-
-    
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
